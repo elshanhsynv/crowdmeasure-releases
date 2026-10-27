@@ -1,8 +1,8 @@
 {
-    "versionCode":  14,
-    "versionName":  "1.14",
-    "apkUrl":  "https://github.com/elshanhsynv/crowdmeasure-releases/releases/download/v1.14/app-v14.apk",
-    "sha256":  "d74756d41a217018b2ca587d9684a4c9f5941eac72585fd222c8f20fcf5c453e",
+    "versionCode":  15,
+    "versionName":  "1.15",
+    "apkUrl":  "https://github.com/elshanhsynv/crowdmeasure-releases/releases/download/v1.15/app-v15.apk",
+    "sha256":  "102b9067c261f147e5968e626256baa5dfdbca97ddc0445bae203088880687ba",
     "forceUpdate":  false,
     "releaseNotes":  "Bug fixes"
 }
